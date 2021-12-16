@@ -1,6 +1,6 @@
-Aplicacion móvil para consultar precios de criptomonedas basada en la API de Coingecko.
+Mobile app to check live Cryptocurrency prices, based on Coingecko's API.
 
-Tecnologías utilizadas:
+Based on the following technologies:
 - React Native
-- Node
+- Node.js
 - Babel
